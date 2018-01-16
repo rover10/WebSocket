@@ -5,3 +5,6 @@
 5. heroku create uniqu-app-name
 6. git push heroku master
 7. heroku open
+
+
+Deployed @ https://rak-esh-websocket.herokuapp.com/
